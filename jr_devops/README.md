@@ -11,7 +11,7 @@
 
   * Use Ansible/Chef/Puppet as the configuration management tool.
   * The infrastructure provider should be AWS.
-  * It should run on Centos 7, using security best practices.
+  * It should run on Ubuntu, using security best practices.
   * Should leverage community roles/cookbooks/modules when it make sense.
   * Make sure to include a appropriate methods so that all roles/cookbooks/modules can be installed when ran.
 
